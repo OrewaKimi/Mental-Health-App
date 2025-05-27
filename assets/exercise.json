@@ -1,0 +1,37 @@
+[
+  {
+    "icon": "favorite",
+    "name": "Speaking Skills",
+    "count": 12,
+    "progress": 0.7,
+    "color": "0xFFFFA726"
+  },
+  {
+    "icon": "book",
+    "name": "Reading Skills",
+    "count": 8,
+    "progress": 0.3,
+    "color": "0xFF66BB6A"
+  },
+  {
+    "icon": "create",
+    "name": "Writing Skills",
+    "count": 6,
+    "progress": 0.6,
+    "color": "0xFF424242"
+  },
+  {
+    "icon": "headphones",
+    "name": "Listening Skills",
+    "count": 4,
+    "progress": 0.9,
+    "color": "0xFFE53935"
+  },
+  {
+    "icon": "lightbulb",
+    "name": "Critical Thinking",
+    "count": 5,
+    "progress": 0.4,
+    "color": "0xFF8E24AA"
+  }
+]
